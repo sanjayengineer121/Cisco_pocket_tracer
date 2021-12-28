@@ -1,7 +1,7 @@
 # Cisco_pocket_tracer
 
 Packet Tracer
-<img src="https://github.com/sanjayengineer121/Notes-Extension/blob/main/logo.png" height="48px" width="48px">
+<img src="https://stemclouds.com/wp-content/uploads/2020/06/networking-cisco-packet-tracer.png" height="48px" width="48px">
 <img scr="https://stemclouds.com/wp-content/uploads/2020/06/networking-cisco-packet-tracer.png">
 <ing src="https://www.securedyou.com/wp-content/uploads/2019/11/How-to-Install-Cisco-Packet-Tracer-Software-696x390.jpg" height="480px" width="480px"> 
 

@@ -3,7 +3,7 @@
 Packet Tracer
 <br>
 <img src="https://stemclouds.com/wp-content/uploads/2020/06/networking-cisco-packet-tracer.png" height="480px" width="480px">
-<img src="https://stemclouds.com/wp-content/uploads/2020/06/networking-cisco-packet-tracer.png" height="480px" width="480px"> 
+<img src="https://habrastorage.org/webt/5d/c4/c8/5dc4c8d577383002816463.jpeg" height="480px" width="480px"> 
 
 <h2>System software<h2>
 <br>
